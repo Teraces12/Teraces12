@@ -1,4 +1,4 @@
-# 🚀 Lebede Ngartera | AI Strategist & Bayesian RAG Pioneer
+#  Lebede Ngartera | AI Strategist & Bayesian RAG Pioneer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=AI+Strategist+%7C+Data+Scientist+%7C+ML+%26+NLP+Expert;Ph.D.+in+Applied+Mathematics+%7C+Bayesian+RAG+Researcher;Transforming+Data+into+Intelligence+%26+Automation" alt="Typing SVG" />
